@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brandon.smith\\source\\repos\\web_project01\\api\\API.csproj": {}
+    "C:\\Users\\brandon.smith\\source\\repos\\web_project01\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brandon.smith\\source\\repos\\web_project01\\api\\API.csproj": {
+    "C:\\Users\\brandon.smith\\source\\repos\\web_project01\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brandon.smith\\source\\repos\\web_project01\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\brandon.smith\\source\\repos\\web_project01\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\brandon.smith\\source\\repos\\web_project01\\api\\API.csproj",
+        "projectPath": "C:\\Users\\brandon.smith\\source\\repos\\web_project01\\API\\API.csproj",
         "packagesPath": "C:\\Users\\brandon.smith\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brandon.smith\\source\\repos\\web_project01\\api\\obj\\",
+        "outputPath": "C:\\Users\\brandon.smith\\source\\repos\\web_project01\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brandon.smith\\AppData\\Roaming\\NuGet\\NuGet.Config",

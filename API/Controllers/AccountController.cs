@@ -9,7 +9,7 @@ namespace API.Controllers
         [HttpGet]
         public string Hi()
         {
-            return "Hi";
+            return "Hi and Welcome!!";
         }
     }
 }
